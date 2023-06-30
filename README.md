@@ -12,7 +12,7 @@ Pour commencer à utiliser Glyde dans votre serveur Discord, suivez ces étapes 
 
 ## 📜 Commands list
 
-`/how` : This commands allow you to know how to use the app of Discord.
+`/how` : This commands allow you to know how to use the app of Discord or more.
 `/use` : This commands allow you to know how to use fonctions of  Discord.
 `/libraries` : This commands allow you to know more about Discord JS Librairies
 
