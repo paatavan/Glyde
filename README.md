@@ -18,4 +18,4 @@ Pour commencer à utiliser Glyde dans votre serveur Discord, suivez ces étapes 
 
 Glyde est là pour améliorer votre expérience Discord, que vous soyez un nouvel utilisateur ou un utilisateur expérimenté.
 ✨🤖
-
+x
